@@ -1,8 +1,8 @@
 <div align="center">
 
-# DeepDelve
+# DeepDelve: Turtles de Mineração para Minecraft
 
-Turtles de mineração autônomas para o **CC: Tweaked**, controladas por toque num Advanced Monitor.<br>
+Turtles de mineração autônomas para o **Minecraft**, feitas sobre o mod **CC: Tweaked** e controladas por toque num Advanced Monitor.<br>
 Elas sempre voltam ao baú, lembram o que já escavaram e sobrevivem a quedas de energia.
 
 ![Lua](https://img.shields.io/badge/Lua-5.1-2C2D72?style=flat-square&logo=lua&logoColor=white)

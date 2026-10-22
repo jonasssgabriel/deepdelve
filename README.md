@@ -1,8 +1,8 @@
 <div align="center">
 
-# DeepDelve
+# DeepDelve: Minecraft Mining Turtles
 
-Autonomous mining turtles for **CC: Tweaked**, controlled by touch from an Advanced Monitor.<br>
+Autonomous mining turtles for **Minecraft**, built on the **CC: Tweaked** mod and controlled by touch from an Advanced Monitor.<br>
 They always walk back to their chest, remember what they already dug, and survive power cuts.
 
 ![Lua](https://img.shields.io/badge/Lua-5.1-2C2D72?style=flat-square&logo=lua&logoColor=white)
